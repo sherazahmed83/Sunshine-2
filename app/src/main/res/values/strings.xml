@@ -212,4 +212,12 @@
 
     <string name="condition_unknown">Unknown (<xliff:g id="low">%1$s</xliff:g>)</string>
     <string name="title_activity_display_message">Sunshine</string>
+
+    <!-- For Shared Element Transitions -->
+    <string name="detail_icon_transition_name" translatable="false">TN_DetailIcon</string>
+
+    <string name="title_widget_today">Sunshine Today</string>
+    <string name="title_widget_detail">Sunshine Details</string>
+    <!-- Strings related to Muzei Source -->
+    <string name="muzei_description">Today\'s weather</string>
 </resources>
